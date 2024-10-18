@@ -1222,7 +1222,8 @@ background-image: radial-gradient(circle at 50% 50%, #6f59e1 0, #4243b8 25%, #07
 .offer_section ul li {
 	margin: 0 40px 12px;
 	padding: 0 0 0 32px;
-	background: url(https://moyka.onlline.com.ua/images/offer__tick_icon.png) left 1px no-repeat;
+	background: url(https://moyka.onlline.com.ua/images/offer__tick_icon.png
+) left 1px no-repeat;
 	background-size: 22px;
 	color:#fff;
 }
